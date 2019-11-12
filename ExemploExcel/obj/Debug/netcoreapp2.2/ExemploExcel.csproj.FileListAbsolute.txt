@@ -1,0 +1,14 @@
+C:\_estudos\ExemploExcel\ExemploExcel\bin\Debug\netcoreapp2.2\ExemploExcel.deps.json
+C:\_estudos\ExemploExcel\ExemploExcel\bin\Debug\netcoreapp2.2\ExemploExcel.runtimeconfig.json
+C:\_estudos\ExemploExcel\ExemploExcel\bin\Debug\netcoreapp2.2\ExemploExcel.runtimeconfig.dev.json
+C:\_estudos\ExemploExcel\ExemploExcel\bin\Debug\netcoreapp2.2\ExemploExcel.dll
+C:\_estudos\ExemploExcel\ExemploExcel\obj\Debug\netcoreapp2.2\ExemploExcel.csprojAssemblyReference.cache
+C:\_estudos\ExemploExcel\ExemploExcel\obj\Debug\netcoreapp2.2\ExemploExcel.csproj.CoreCompileInputs.cache
+C:\_estudos\ExemploExcel\ExemploExcel\obj\Debug\netcoreapp2.2\ExemploExcel.RazorAssemblyInfo.cache
+C:\_estudos\ExemploExcel\ExemploExcel\obj\Debug\netcoreapp2.2\ExemploExcel.RazorAssemblyInfo.cs
+C:\_estudos\ExemploExcel\ExemploExcel\obj\Debug\netcoreapp2.2\ExemploExcel.AssemblyInfoInputs.cache
+C:\_estudos\ExemploExcel\ExemploExcel\obj\Debug\netcoreapp2.2\ExemploExcel.AssemblyInfo.cs
+C:\_estudos\ExemploExcel\ExemploExcel\obj\Debug\netcoreapp2.2\ExemploExcel.RazorTargetAssemblyInfo.cache
+C:\_estudos\ExemploExcel\ExemploExcel\bin\Debug\netcoreapp2.2\ExemploExcel.pdb
+C:\_estudos\ExemploExcel\ExemploExcel\obj\Debug\netcoreapp2.2\ExemploExcel.dll
+C:\_estudos\ExemploExcel\ExemploExcel\obj\Debug\netcoreapp2.2\ExemploExcel.pdb
